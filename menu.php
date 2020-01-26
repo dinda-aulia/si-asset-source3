@@ -27,7 +27,7 @@
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Reports <span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                        <li><a href="?page=arsip&actions=report">Laporan Data Aset</a></li>
+                        <li><a href="?page=aset&actions=report">Laporan Data Aset</a></li>
 						            <li><a href="?page=penggunaan&actions=report">Laporan Penggunaan</a></li>
                     </ul>
                 </li>
